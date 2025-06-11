@@ -122,5 +122,4 @@ Made while taking "Devops with Kubernetes 2025" course: [online](https://devopsw
 
 ## Disclaimers
 
-* Exercise text in README files in this repo has been sourced from the course website. This was done for retention of the orginal exercise text pertaining to solutions in this repo, shall the course change in the future. No copyright infringement intended.
-* For educational and entertainment purposes only. Plagiarism is strongly advised against. If in doubt, consult [policy on plagiarism of the University of Helsinki](https://studies.helsinki.fi/instructions/article/what-cheating-and-plagiarism).
+* I make no claims this is correct, passes, or otherwise. I am not a grader
