@@ -122,4 +122,4 @@ Made while taking "Devops with Kubernetes 2025" course: [online](https://devopsw
 
 ## Disclaimers
 
-* I make no claims this is correct, passes, or otherwise. I am not a grader
+* *I make no claims this is correct, passes, or otherwise. I am not a grader*
