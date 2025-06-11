@@ -101,7 +101,7 @@ Made while taking "Devops with Kubernetes 2025" course: [online](https://devopsw
 
 ### 1. Kubernetes Internals
 
-*This chapter has no exercises*
+*This part was only informational*
 
 ### 2. Custom Resource Definitions
 
