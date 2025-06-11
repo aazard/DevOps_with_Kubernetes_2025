@@ -89,7 +89,7 @@ Made while taking "Devops with Kubernetes 2025" MOOC: [online](https://devopswit
 
 ### 2. Messaging Systems
 
-- [Exercise 4.06: Project v2.0 (*Still working on this exercise.*)](https://github.com/aazard/DevOps_with_Kubernetes_2025/tree/main/Part4/Exercise_4.06)
+- [Exercise 4.06: Project v2.0 (*I think I may have solved - test version uploaded.*)](https://github.com/aazard/DevOps_with_Kubernetes_2025/tree/main/Part4/Exercise_4.06)
 
 ### 3. GitOps
 
