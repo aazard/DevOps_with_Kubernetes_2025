@@ -1,0 +1,29 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  namespace: project
+  name: project-broadcaster-dep
+spec:
+  replicas: 6
+  selector:
+    matchLabels:
+      app: project-broadcaster
+  template:
+    metadata:
+      labels:
+        app: project-broadcaster
+    spec:
+      containers:
+        - name: project-broadcaster
+          image: laurihakala/project-broadcaster:51
+          env:
+            - name: NATS_URL
+              value: nats://my-nats:4222
+            - name: BOT_TOKEN
+              value: <YOUR_BOT_TOKEN>
+            - name: CHAT_ID
+              value: <YOUR_CHAT_ID>
+          resources:
+            limits:
+              cpu: "150m"
+              memory: "100Mi"
