@@ -8,10 +8,6 @@ Made while taking "Devops with Kubernetes 2025" MOOC: [online](https://devopswit
 - [Exercise 1.03: Declarative approach](https://github.com/aazard/DevOps_with_Kubernetes_2025/tree/main/Part1/Exercise_1.03)
 - [Exercise 1.04: Project v0.2](https://github.com/aazard/DevOps_with_Kubernetes_2025/tree/main/Part1/Exercise_1.04)
 
-### 2. Introduction to Debugging
-
-*This part was only informational*
-
 ### 3. Introduction to Networking
 
 - [Exercise 1.05: Project v0.3](https://github.com/aazard/DevOps_with_Kubernetes_2025/tree/main/Part1/Exercise_1.05)
@@ -98,10 +94,6 @@ Made while taking "Devops with Kubernetes 2025" MOOC: [online](https://devopswit
 
 
 ## Part 5
-
-### 1. Kubernetes Internals
-
-*This part was only informational*
 
 ### 2. Custom Resource Definitions
 
