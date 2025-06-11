@@ -1,4 +1,4 @@
-# DevOps_with_Kubernetes
+# DevOps_with_Kubernetes 2025
 
 Made while taking "Devops with Kubernetes 2025" MOOC: [online](https://devopswithkubernetes.com/) 
 ### 1. First Deploy
