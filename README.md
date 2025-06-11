@@ -1,6 +1,9 @@
 # DevOps_with_Kubernetes 2025
 
 Made while taking "Devops with Kubernetes 2025" MOOC: [Linked HERE](https://devopswithkubernetes.com/) 
+
+## Part 1
+
 ### 1. First Deploy
 
 - [Exercise 1.01: Getting started](https://github.com/aazard/DevOps_with_Kubernetes_2025/tree/main/Part1/Exercise_1.01)
